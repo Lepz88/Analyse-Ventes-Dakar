@@ -8,8 +8,10 @@ Ce projet a pour objectif d'analyser les transactions d'une boutique locale à D
 - **Python (Matplotlib) :** Data Visualization et création d'un tableau de bord décisionnel (Data Storytelling).
 - **Logique Business :** Audit de la qualité des données et extraction de tendances.
 
-## 📈 Le Tableau de Bord (Dashboard Final)
+##   📈 Le Tableau de Bord (Dashboard Final) 
 Voici la vue d'ensemble générée automatiquement par le script de production :
+
+
 
 ![Dashboard d'Analyse des Ventes](dashboard_complet_dakar.png)
 
@@ -19,4 +21,5 @@ Voici la vue d'ensemble générée automatiquement par le script de production :
 3. **Tendance Quotidienne :** L'analyse temporelle permet de repérer les jours de pics de ventes pour mieux planifier les effectifs en boutique.
 
 ---
+
 *Projet réalisé dans le cadre de ma montée en compétences en Data Analysis.*
