@@ -1,0 +1,11 @@
+Date,Produit,Categorie,Prix_Unitaire,Quantite,Mode_Paiement
+2025-02-10,Riz,Alimentation,12000,10,Espèces
+2025-02-10,riz ,Alimentation,12000,5,Espèces
+2025-02-11,Huile,Alimentation,18000,-2,Orange Money
+2025-02-11,Sucre,Alimentation,,20,Espèces
+2025-02-12,Lait,Frais,5000,50,Wave
+2025-02-12,Lait,Frais,5000,50,Wave
+2025-02-13,Savon,,500,100,Espèces
+2025-02-13,RIZ,Alimentation,12000,15,Orange Money
+2025-02-14,Pain,Boulangerie,-150,200,Espèces
+2025-02-14,Café,Alimentation,3500,10,Wave
