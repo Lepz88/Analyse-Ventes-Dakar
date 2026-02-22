@@ -13,7 +13,7 @@ Voici la vue d'ensemble générée automatiquement par le script de production :
 
 
 
-![Dashboard d'Analyse des Ventes](https://github.com/Lepz88/Analyse-Ventes-Dakar/blob/main/dashboard_complet_dakar.png?raw=true)
+![dashboard_vente.py](https://github.com/Lepz88/Analyse-Ventes-Dakar/blob/main/dashboard_complet_dakar.png?raw=true)
 
 ## 🧠 Conclusions Business (Ce qu'il faut retenir)
 1. **Performance Produit :** Le produit phare générant le plus de chiffre d'affaires a été clairement identifié, ce qui permet d'optimiser les stocks.
@@ -23,4 +23,5 @@ Voici la vue d'ensemble générée automatiquement par le script de production :
 ---
 
 *Projet réalisé dans le cadre de ma montée en compétences en Data Analysis.*
+
 
